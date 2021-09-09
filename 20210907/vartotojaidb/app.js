@@ -58,3 +58,7 @@ db.collection('vardai').find({
     console.log("Viso Jonu yra " +users);
     }) ;
 });
+
+
+//MONGO DB 
+// C:\Users\kauna\Desktop\mongoDB\mongodb\bin\mongod.exe --dbpath='C:\Users\kauna\Desktop\mongoDB\data'
